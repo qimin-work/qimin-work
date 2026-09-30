@@ -173,6 +173,4 @@
 
 <p align="center">
   <sub>感谢浏览！欢迎查阅我的其他仓库。</sub>
-  <br/>
-  <sub>由 TeleAgent 精心制作</sub>
 </p>
