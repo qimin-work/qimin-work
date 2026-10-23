@@ -154,9 +154,22 @@
 
 ---
 
+## 在线作品集
+
+<p align="center">
+  <a href="https://qimin-work.github.io/"><b>https://qimin-work.github.io/</b></a><br/>
+  <sub>完整求职作品集网站 · 求职意向 / 工作经历 / 专项成果 / 技能证书 · 支持手机访问</sub>
+</p>
+
+---
+
 ## 联系我
 
 <p align="center">
+  <a href="https://qimin-work.github.io/">
+    <img src="https://img.shields.io/badge/%E5%9C%A8%E7%BA%BF%E4%BD%9C%E5%93%81%E9%9B%86-%E7%82%B9%E5%87%BB%E8%AE%BF%E9%97%AE-FF5A1E?style=for-the-badge&logo=githubpages&logoColor=white" alt="在线作品集" />
+  </a>
+  &nbsp;
   <a href="https://github.com/qimin-work">
     <img src="https://img.shields.io/badge/GitHub-qimin--work-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
